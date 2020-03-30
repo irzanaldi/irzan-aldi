@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
 /**
  * CodeIgniter
@@ -315,6 +316,8 @@ switch (ENVIRONMENT)
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 =======
+=======
+>>>>>>> 610c28f5491eab507830d21ff1f0aaab7ce41c86
 <!DOCTYPE html>
 <html>
 <head>
@@ -434,5 +437,9 @@ function openCity(evt, cityName) {
 document.getElementById("defaultOpen").click();
 </script>
 </body>
+<<<<<<< HEAD
+</html>
+>>>>>>> 610c28f5491eab507830d21ff1f0aaab7ce41c86
+=======
 </html>
 >>>>>>> 610c28f5491eab507830d21ff1f0aaab7ce41c86
